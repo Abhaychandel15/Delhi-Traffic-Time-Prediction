@@ -1,0 +1,10 @@
+model.pkl
+pipeline.pkl
+input.csv
+output.csv
+real_features.csv
+__pycache__/
+*.pyc
+.env
+.vscode/
+.ipynb_checkpoints/
