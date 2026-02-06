@@ -2,6 +2,7 @@ model.pkl
 pipeline.pkl
 input.csv
 output.csv
+input_check.csv
 real_features.csv
 __pycache__/
 *.pyc
